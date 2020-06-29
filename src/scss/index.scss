@@ -1,0 +1,16 @@
+@import './variables';
+@import './mixins';
+@import './fonts';
+
+// includes
+@import './includes/buttons';
+
+// components
+@import './components/header';
+
+// pages
+@import './pages/main';
+
+body {
+  background-color: white;
+}
